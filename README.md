@@ -6,3 +6,4 @@ I'm learning to use GitHub to complete an Econometrics course, which handles a l
 
 It's a steep learning curve but a fascinating one, which I'm sure will take me down a long rabbit hole.
 A line I wrote on my laptop
+Testing cached credentials through commit
